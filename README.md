@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas9523" alt="tejas9523" /></a> </p>
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1h6WNCyet00_h917MBG5Bq58wJzfbrbqm/view?usp=drive_link](https://drive.google.com/file/d/1h6WNCyet00_h917MBG5Bq58wJzfbrbqm/view?usp=drive_link)
+
 - 🌱 I’m currently learning **Artificial Intellignce & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejas9523/](https://github.com/Tejas9523/)
@@ -12,8 +14,6 @@
 - 📫 How to reach me **pawartejas952003@gmail.com**
 
 - Portfolio https://tejas9523.netlify.app/
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h6WNCyet00_h917MBG5Bq58wJzfbrbqm/view?usp=drive_link](https://drive.google.com/file/d/1h6WNCyet00_h917MBG5Bq58wJzfbrbqm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
