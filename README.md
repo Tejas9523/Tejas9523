@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas9523" alt="tejas9523" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intellignce**
+- 🌱 I’m currently learning **Artificial Intellignce & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tejas9523/](https://github.com/Tejas9523/)
 
