@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **pawartejas952003@gmail.com**
 
+- Portfolio https://tejas9523.netlify.app/
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h6WNCyet00_h917MBG5Bq58wJzfbrbqm/view?usp=drive_link](https://drive.google.com/file/d/1h6WNCyet00_h917MBG5Bq58wJzfbrbqm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
