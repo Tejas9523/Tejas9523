@@ -1,3 +1,5 @@
+![Blue and White Modern Graphic Designer Email Header](https://github.com/user-attachments/assets/fdcca7a4-da28-410a-82dd-ca91df381ed1)
+
 <h1 align="center">Hi 👋, I'm TEJAS PAWAR</h1>
 <h3 align="center">Passionate about Artificial Intelligence & Data Science. Willing to apply my domain knowledge to solve the real world problems and create the solutions. Would like to explore and learn new things, skills, fields and connect with people. Aiming to gain knowledge, learn and grow. Along with to help the society and environment.</h3>
 
